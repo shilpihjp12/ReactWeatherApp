@@ -1,0 +1,9 @@
+.Error {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Heading {
+    color: #d82020;
+  }

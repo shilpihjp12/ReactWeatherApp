@@ -1,0 +1,28 @@
+.Card {
+    width: auto;
+    margin: 0 3.2rem;
+    cursor: pointer;
+  }
+  
+  .Card:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .Pos {
+    margin-bottom: 12px;
+  }
+  .IconPos {
+    float: right;
+  }
+  
+  .Selected {
+    border: 3px solid #666;
+  }
+  
+  
+  @media (max-width: 760px) {
+    .Card {
+      width: 200px;
+      margin: auto;
+    }
+  }
